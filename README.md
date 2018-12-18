@@ -1,8 +1,2 @@
-## webscraper_news_PPL
-created by 
-Kiran
-Jaydeep 
-krishna
-Jai
-
+## webscraper news
 # Just run run.sh file
